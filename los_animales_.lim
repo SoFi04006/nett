@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="5.6.4">
+    <config>
+        <idioma>0</idioma>
+        <licencia></licencia>
+        <adxuntos>37fc0372ddce6ffecd7ade13d742ad13.jpg,182286613-langostinos-mariscos-crust_aceos-aislados-camarones-divertido-personaje-de-dibujos-animados-vector.jpg,182286613-langostinos-mariscos-crustáceos-aislados-camarones-divertido-personaje-de-dibujos-animados-vector.jpg,abeja-invertebrados-e1523302789150-798x451.jpeg,audio 3.mp3,audio 5.mp3,audio_1.mp3,audio_2.mp3,audio_3.mp3,audio_4.mp3,audio_5.mp3,bcfcf39dbc3cab126a330417502817fa.jpg,bee-cartoon-colored-clipart-illustration-free-vector.jpg,bien_hecho.mp3,Correo_ SOFIA VEGA GARCIA - Outlook.html,curiosidades_de_los_animales_invertebrados_1328_orig.jpg,descarga (1).jfif,descarga.jfif,e76be4914c7a023b8665a812d106f0cb.png,html.tlm,images (1).jfif,images (2).jfif,images (3).jfif,images (4).jfif,images.jfif,index.html,larva-de-mariposa.jpg,los_animales_.html,los_animales_.lim,sigue intentando.mp3,sigue_intentando.mp3,thumbnail_4d5857c7dd06d4f86cd86ec38e5c6ff0.jpg,thumbnail_7cd8f40b2f47f1069f5a2d460f9b846a.jpg,thumbnail_88f69adfb120323354c7e1c8668d7ab6.jpg,thumbnail_5881efecdd4df62f4065ccbb9394cd63.jpg,thumbnail_7317d604280a5d023e07013ed03780fb.jpg,thumbnail_07594ccf5d2d378805c5c3d6d6a1dc94 (1).jpg,thumbnail_31996b99367e8029733b3ef1819ec7b3.jpg,thumbnail_83743b8e10a4a6d13ab40872f74c8e26.jpg,thumbnail_6115537b99f801339e1bb4f4.jpg,thumbnail_acfa236f3616d3081775c01705852340.jpg,thumbnail_b50c7a11d5e46f9d042d0b3532ecb680.jpg,thumbnail_como_son_los_animales_invertebrados_17053_600.jpg,thumbnail_d2cbb75df66938a97622cba13850f7b4.jpg,thumbnail_d82ec860db6fa20a653ac5cb30d42e8d.jpg,thumbnail_d9574f50d87e7a87a3b58ed88620560b.jpg,thumbnail_dc7330f98859444eb12b13b3324184bb (1).jpg,thumbnail_dc7330f98859444eb12b13b3324184bb_(1).jpg,thumbnail_descarga (1).jpg,thumbnail_descarga (5).jpg,thumbnail_descarga.jpg,thumbnail_descarga_(5).jpg,thumbnail_images (2).jpg,thumbnail_images (3).jpg,thumbnail_images.jpg,thumbnail_images_(2).jpg,thumbnail_istockphoto-935702298-612x612.jpg</adxuntos>
+        <corfondo>D2C1FF</corfondo>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <titulo>Los animales vertebrados e invertebrados </titulo>
+        <autor>Sofía Vega </autor>
+        <informe>0</informe>
+        <botonson>0</botonson>
+        <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="bien_hecho.mp3" modo="1" >¡Bien hecho!</correcto>
+        <incorrecto son="sigue_intentando.mp3" modo="1" >¡Sigue intentando!</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>38</tipo>
+              <imaxe>thumbnail_descarga_(5).jpg</imaxe>
+              <son>audio_1.mp3</son>
+              <forma>0</forma>
+              <texto><![CDATA[
+<p align="center">
+<font color="#080000" face="Stencil" size="54"><br>
+<br>
+LOS ANIMALES VERTEBRADOS E INVERTEBRADOS </font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="2" >
+              <tipo>38</tipo>
+              <imaxe>e76be4914c7a023b8665a812d106f0cb.png</imaxe>
+              <son>audio_2.mp3</son>
+              <forma>0</forma>
+              <texto><![CDATA[
+<p align="center">
+<font color="#080000" face="Stencil" size="54"><br>
+<br>
+¿QUÉ SON LOS ANIMALES VERTEBRADOS?<br>
+</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="3" >
+              <tipo>38</tipo>
+              <imaxe>thumbnail_images.jpg</imaxe>
+              <son>audio_3.mp3</son>
+              <forma>1</forma>
+              <texto><![CDATA[
+<p align="center">
+<font color="#080000" face="Stencil" size="54"><br>
+<br>
+Los animales vertebrados son aquellos que poseen una columna vertebral, también conocida como espina dorsal.<br>
+</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="4" >
+              <tipo>39</tipo>
+              <modo>1</modo>
+            <parellas imaxe="thumbnail_31996b99367e8029733b3ef1819ec7b3.jpg" texto="">thumbnail_31996b99367e8029733b3ef1819ec7b3.jpg</parellas>
+              <parellas imaxe="thumbnail_7cd8f40b2f47f1069f5a2d460f9b846a.jpg" texto="">thumbnail_7cd8f40b2f47f1069f5a2d460f9b846a.jpg</parellas>
+              <parellas imaxe="thumbnail_d2cbb75df66938a97622cba13850f7b4.jpg" texto="">thumbnail_d2cbb75df66938a97622cba13850f7b4.jpg</parellas>
+              <parellas imaxe="thumbnail_5881efecdd4df62f4065ccbb9394cd63.jpg" texto="">thumbnail_5881efecdd4df62f4065ccbb9394cd63.jpg</parellas>
+              <parellas imaxe="thumbnail_83743b8e10a4a6d13ab40872f74c8e26.jpg" texto="">thumbnail_83743b8e10a4a6d13ab40872f74c8e26.jpg</parellas>
+              <parellas imaxe="thumbnail_d82ec860db6fa20a653ac5cb30d42e8d.jpg" texto="">thumbnail_d9574f50d87e7a87a3b58ed88620560b.jpg</parellas>
+              <cfondo>D2C1FF</cfondo>
+              <ctapa>800080</ctapa>
+              <tempo>20</tempo>
+        </paxina>
+        <paxina id="5" >
+              <tipo>3</tipo>
+              <imaxe>thumbnail_d9574f50d87e7a87a3b58ed88620560b.jpg</imaxe>
+              <filas>5</filas>
+              <columnas>3</columnas>
+              <reixa>0</reixa>
+            <forma>1</forma>
+        </paxina>
+        <paxina id="6" >
+              <tipo>38</tipo>
+              <imaxe>thumbnail_images_(2).jpg</imaxe>
+              <son>audio_4.mp3</son>
+              <forma>1</forma>
+              <texto><![CDATA[
+<p align="center">
+<font color="#080000" face="Stencil" size="54"><br>
+<br>
+¿QUE SON LOS INVERTEBRADOS?<br>
+</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="7" >
+              <tipo>38</tipo>
+              <imaxe>thumbnail_como_son_los_animales_invertebrados_17053_600.jpg</imaxe>
+              <son>audio_5.mp3</son>
+              <forma>1</forma>
+              <texto><![CDATA[
+<p align="center">
+<font color="#080000" face="Stencil" size="54"><br>
+<br>
+Se conoce como invertebrados al conjunto de animales que no poseen columna vertebral, cuerda dorsal, ni esqueleto interno.</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="8" >
+              <tipo>4</tipo>
+              <modo>2</modo>
+              <sopa enun="182286613-langostinos-mariscos-crust_aceos-aislados-camarones-divertido-personaje-de-dibujos-animados-vector.jpg">gusano</sopa>
+              <sopa enun="thumbnail_acfa236f3616d3081775c01705852340.jpg">abeja</sopa>
+              <sopa enun="thumbnail_4d5857c7dd06d4f86cd86ec38e5c6ff0.jpg">cangrejo</sopa>
+              <sopa enun="bee-cartoon-colored-clipart-illustration-free-vector.jpg">mariquita</sopa>
+              <sopa enun="thumbnail_b50c7a11d5e46f9d042d0b3532ecb680.jpg">araña</sopa>
+              <sopa enun="thumbnail_dc7330f98859444eb12b13b3324184bb_(1).jpg">pulpo</sopa>
+              <sopa enun="thumbnail_88f69adfb120323354c7e1c8668d7ab6.jpg">insecto</sopa>
+              <sopa enun="bcfcf39dbc3cab126a330417502817fa.jpg">langosta</sopa>
+              <enunciado>0</enunciado>
+              <colorea>0</colorea>
+              <cadro>0</cadro>
+        </paxina>
+        <paxina id="9" >
+              <tipo>17</tipo>
+              <parellas>bcfcf39dbc3cab126a330417502817fa.jpg</parellas>
+              <parellas>bee-cartoon-colored-clipart-illustration-free-vector.jpg</parellas>
+              <parellas>thumbnail_88f69adfb120323354c7e1c8668d7ab6.jpg</parellas>
+              <parellas>thumbnail_acfa236f3616d3081775c01705852340.jpg</parellas>
+              <parellas>thumbnail_b50c7a11d5e46f9d042d0b3532ecb680.jpg</parellas>
+              <parellas>thumbnail_dc7330f98859444eb12b13b3324184bb_(1).jpg</parellas>
+              <cfondo>D2C1FF</cfondo>
+              <ctapa>000000</ctapa>
+        </paxina>
+    </libro>
+</lim>
